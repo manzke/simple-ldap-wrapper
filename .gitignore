@@ -2,3 +2,5 @@
 .project
 .settings
 */target/**
+
+ldap-search/src/main/java/de/devsurf/ldap/search/InternalLdapSearch.java
